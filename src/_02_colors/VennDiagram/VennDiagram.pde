@@ -1,6 +1,13 @@
 size(600,600);
 fill(3, 17, 255, 165);
 ellipse( 200, 160, 320, 320);
-fill(3, 17, 255, 165);
+fill(250, 8, 8, 165);
 ellipse( 405, 160, 320, 320);
+fill(5, 165, 30, 130);
 ellipse( 302.5, 310, 320, 320);
+textSize(45);
+fill(7, 8, 7, 255);
+text("FUNNY", 75, 160);
+textSize(45);
+text("BETTER", 400, 160);
+text("BETTER", 240, 400);
